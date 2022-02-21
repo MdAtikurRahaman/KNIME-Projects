@@ -1,0 +1,8 @@
+runner\Runner.class
+step_definitions\Hooks.class
+pages\PrivateSpacePage.class
+step_definitions\TestDef_Login_Functionalities.class
+pages\HomePage.class
+pages\LandingPage.class
+pages\KNIMESigninPage.class
+base\Base.class
